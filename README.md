@@ -3,6 +3,8 @@
 
 ## https://pub.current.posit.team/public/PharmaSUG_Positron_AI_Workshop/#/title-slide
 
+## https://pub.current.posit.team/public/PharmaSUG_Positron_AI/#/title-slide Short Session HOT
+
 https://pharmasug.org/conferences/pharmasug-2026-us/training-seminars/
 
 ## 	RStudio & Positron: Advancements in AI for Statistical Programming	Phil Bowsher	8:00 AM - 12:00 PM
